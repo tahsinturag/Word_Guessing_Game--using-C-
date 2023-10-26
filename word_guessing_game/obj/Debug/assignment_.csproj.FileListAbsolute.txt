@@ -1,0 +1,10 @@
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\bin\Debug\assignment_.exe.config
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\bin\Debug\assignment_.exe
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\bin\Debug\assignment_.pdb
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\obj\Debug\assignment_.csprojAssemblyReference.cache
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\obj\Debug\assignment_.Form1.resources
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\obj\Debug\assignment_.Properties.Resources.resources
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\obj\Debug\assignment_.csproj.GenerateResource.cache
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\obj\Debug\assignment_.csproj.CoreCompileInputs.cache
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\obj\Debug\assignment_.exe
+C:\Users\Pedp4WPBX5105GRF0522\source\repos\assignment_\assignment_\obj\Debug\assignment_.pdb
